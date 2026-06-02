@@ -1,0 +1,23 @@
+============================================
+  GUMROAD 产品上架包 — 准备就绪！
+============================================
+
+📦 产品名称: 200+ AI Prompts for Work, Business & Creativity
+💰 建议售价: $4.99 (首发) → $9.99 (正常)
+📁 格式: PDF + Notion Template + Plain Text
+
+上架步骤:
+1. 打开 https://gumroad.com 注册账号
+2. 点击 "Add a product"
+3. 填写产品信息（复制下方的文案）
+4. 上传以下文件:
+   - ai-prompts-collection.pdf  ← 主产品
+   - notion-template.md        ← Notion 版 (可选)
+   - prompts-plain.txt         ← 纯文本版 (可选)
+5. 上传封面图: cover → 用 cover-gumroad-prompts.png
+6. 设置价格 $4.99
+7. 发布！
+
+============================================
+产品页文案 → 见 gumroad-product.md
+============================================
