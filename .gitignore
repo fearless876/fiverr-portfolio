@@ -1,1 +1,26 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Playwright
 .playwright-cli/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Codex
+.codex/
+
+# Generated PDFs (keep source, not binary)
+# gumroad-product/*.pdf
